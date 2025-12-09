@@ -1,0 +1,14 @@
+Student Information System
+
+Name: Ritu
+Student ID: GF202346594
+Course: Computer Science Engineering
+Semester: 5th Semester
+Email: ritu@university.edu
+
+Practical for Node js
+
+
+
+
+
